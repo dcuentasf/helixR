@@ -1,0 +1,14 @@
+Package: helixR
+Title: Basic Tools for DNA/RNA Sequence Analysis
+Version: 0.0.0.9000
+Authors@R:
+    person("Diego", "Cuentas",
+           email = "lestibournes74@gmail.com",
+           role = c("aut", "cre"))
+Description: A collection of basic functions for DNA and RNA sequence analysis, including nucleotide counting, GC content calculation, motif search, ORF detection, and translation of nucleotide sequences into proteins.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+
+URL: https://github.com/dcuentasf/helixR
